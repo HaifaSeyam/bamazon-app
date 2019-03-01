@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaifaSeyam/bamazon-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaifaSeyam/bamazon-app/issues"
+  },
+  "homepage": "https://github.com/HaifaSeyam/bamazon-app#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
