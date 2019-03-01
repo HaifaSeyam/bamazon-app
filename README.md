@@ -116,7 +116,7 @@ The change will be reflected on DB
 
 ![bamazon-app](Images/23-signOut.png)
 
-2. **When the supervisor is using the app**
+3. **When the supervisor is using the app**
 
 - He can access the app by typing the following command:
 
